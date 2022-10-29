@@ -65,7 +65,7 @@
     color: #FE9013;
 }
 .header{
-    background-image:url(../donate/images/Giant\ Panda.jpg);
+    background-image:url(/images/Giant\ Panda.jpg);
     background-size:cover;
     height: 780px;
     width: 100%;
