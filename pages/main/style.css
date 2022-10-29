@@ -1,0 +1,11 @@
+.header-background{
+    height: 390px;
+    position: relative;
+}
+.donation-div{
+    max-width: 1160px;
+    width: 100%;
+    position: absolute;
+    background-color: aqua;
+
+}
